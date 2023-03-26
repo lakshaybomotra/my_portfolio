@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c667fe16.css",
+    "main.js": "/static/js/main.2297f10c.js",
+    "static/js/27.e11e9da7.chunk.js": "/static/js/27.e11e9da7.chunk.js",
+    "static/media/portfolio_main2.png": "/static/media/portfolio_main2.edb7a9a4c90a34744efa.png",
+    "static/media/hamraah.png": "/static/media/hamraah.f8cf2d4eba29f56e672a.png",
+    "static/media/hamburger_ketchup.mp4": "/static/media/hamburger_ketchup.218570d0730a546ea5e2.mp4",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/dumb_charades_app.png": "/static/media/dumb_charades_app.5e7965171a6e9bcc85ca.png",
+    "static/media/weather_app.png": "/static/media/weather_app.a6971d0fc839aad60450.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/maquillage.png": "/static/media/maquillage.1f7e93db8e83d9dd4a1d.png",
+    "static/media/hamburger_ketchup_poster.png": "/static/media/hamburger_ketchup_poster.a32b84ccbf3e07f896db.png",
+    "static/media/404.jpg": "/static/media/404.19e523cdb4d4a12db938.jpg",
+    "static/media/team_disha.png": "/static/media/team_disha.72f584a28407d5a16cce.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/portfolio_mob2.png": "/static/media/portfolio_mob2.f9d2ce095d3e0f73bc03.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/askthegeeks.png": "/static/media/askthegeeks.6b6ad494ef133d6a29e0.png",
+    "static/media/kurkure.png": "/static/media/kurkure.49594ec15a953ce2de8c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/cancel.svg": "/static/media/cancel.17825c74c3c6b6934429010ee3f913fd.svg",
+    "static/media/quote.svg": "/static/media/quote.6b6d47557f1672a2ce0f199a1bd468dc.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c667fe16.css",
+    "static/js/main.2297f10c.js"
+  ]
+}
